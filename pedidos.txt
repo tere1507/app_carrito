@@ -1,0 +1,43 @@
+Nuevo Pedido:
+Producto: miel | Precio: 5 | Cantidad: 3 | Subtotal: 15
+Producto: perfume | Precio: 10 | Cantidad: 1 | Subtotal: 10
+Total: 25€
+Fecha: 2025-05-03 22:24:10
+
+Nuevo Pedido:
+Producto: rosas | Precio: 25 | Cantidad: 1 | Subtotal: 25
+Producto: miel | Precio: 5 | Cantidad: 1 | Subtotal: 5
+Producto: perfume | Precio: 10 | Cantidad: 1 | Subtotal: 10
+Producto: canela | Precio: 3 | Cantidad: 1 | Subtotal: 3
+Total: 43€
+Fecha: 2025-05-03 22:24:29
+
+Nuevo Pedido:
+Producto: rosas | Precio: 25 | Cantidad: 1 | Subtotal: 25
+Total: 25€
+Fecha: 2025-05-03 22:27:01
+
+Nuevo Pedido:
+Producto: oro | Precio: 12 | Cantidad: 2 | Subtotal: 24
+Producto: rosas | Precio: 25 | Cantidad: 2 | Subtotal: 50
+Total: 74€
+Fecha: 2025-05-03 22:29:38
+
+Nuevo Pedido:
+Producto: rosas | Precio: 25 | Cantidad: 1 | Subtotal: 25
+Producto: oro | Precio: 12 | Cantidad: 1 | Subtotal: 12
+Producto: miel | Precio: 5 | Cantidad: 1 | Subtotal: 5
+Producto: perfume | Precio: 10 | Cantidad: 1 | Subtotal: 10
+Total: 52€
+Fecha: 2025-05-03 22:31:19
+
+Nuevo Pedido:
+Producto: Rosas | Precio: 25 | Cantidad: 1 | Subtotal: 25
+Total: 25€
+Fecha: 2025-05-03 22:33:17
+
+Nuevo Pedido:
+Producto: Oro | Precio: 12 | Cantidad: 1 | Subtotal: 12
+Total: 12€
+Fecha: 2025-05-03 22:33:41
+
