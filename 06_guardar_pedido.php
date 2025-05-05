@@ -43,7 +43,7 @@ $registro .= "Total: {$total}€\n";
 $registro .= "Fecha: " . date("Y-m-d H:i:s") . "\n\n";
 
 // Guardar en archivo
-file_put_contents("pedidos.txt", $registro, FILE_APPEND);
+file_put_contents("pedidos.txt", $registro, FILE_APPEND);//recordemos que pedidos.txt se crea sola , cuando pulsamos el boton guardar pedido.
 
 //mostrar en pantalla 
 echo $pedido;
